@@ -1,0 +1,19 @@
+3. Elaborar una aplicación web usando JSP, BootStrap, CSS, HTML5, JavaScript
+
+3.1  Página de inicio:  descripción del barrio, historia, lugar interés  12 mayo 2022
+
+3.2 Catálogo de 5 negocios
+
+3.3 Presentación de cada negocio: nombre, producto o servicio que ofrece, horarios de atención, 3 fotografías.
+
+4. Incluir un elemento interactivo:  mapa, cuestionario, video interactivo, etc.
+
+5. Para la defensa final elaborar un afiche en Canva. Incluir: buyer persona, requerimientos, captura pantallas, 
+modelo base de datos, conclusiones.  Exposición de la aplicación terminada. 19 mayo 2022
+
+-----------------------------------------------------------------------------------------
+12 mayo,  presentación de primer avance JSP.  Subir un pdf con la captura de las pantallas.  5 puntos
+
+19 mayo , subir código fuente o compartir el enlace de GitHub. 2 puntos
+
+19 mayo, exposición de la aplicación web.  8 puntos

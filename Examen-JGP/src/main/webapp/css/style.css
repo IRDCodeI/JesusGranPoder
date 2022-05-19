@@ -1,0 +1,184 @@
+@charset "ISO-8859-1";
+
+*{
+	font-size: 20px;
+	
+}
+
+.landing-page{
+	width:100%;
+	height:78vh;
+	background:linear-gradient(90deg, rgba(163,160,163,0.3561799719887955) 10%, rgba(163,160,163,0.2553396358543417) 90%), url("../img/bgHeader.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+
+.nav{
+	background-color: #331E38;
+	opacity: 86%;
+}
+
+.nav-link:hover{
+	color: #532D5B;
+}
+
+.main-link{
+	color: #4DA3BE;
+}
+
+.nav-item{
+	padding: 8px;
+	margin: 0px 20px;
+}
+
+.dropdown-menu{
+	background-color: #331E38; 
+}
+
+.dropdown-item:hover{
+	background-color: #3C2541;
+}
+
+.flex-cards{
+	margin: 25px;
+	padding: 5px;
+}
+
+.card{
+	border: 0px;
+}
+.fa-solid{
+	font-size: 50px;
+}
+
+.card-subtitle{
+	font-size: 30px;
+}
+
+#acerca{
+	width:100%;  
+	height: auto;
+	padding: 20px;
+	background-color: #706993;
+}
+
+.img-acerca{
+	background-color: #706993;
+}
+
+#lugares{
+	padding: 20px;
+	background-color: #706993;
+}
+
+.img-lugares{
+	background-color: #706993;
+}
+
+#historia{
+	padding: 20px;
+	background-color: #EBE9E5;
+}
+
+.img-historia{
+	background-color: #EBE9E5;
+}
+
+.card-text{
+	margin-top: 0px;
+}
+
+.map{
+	border: 1px solid #808080;
+	border-radius: 20px;
+}
+
+footer{
+	height: auto;
+	background-color: #331E38;
+}
+
+.redesSociales{
+	padding: 10px;
+	margin: 10px;	
+}
+
+.fa-brands{
+	margin-left: 35px;
+}
+
+.designer{
+	padding:10px;
+	margin-bottom:0px;
+	margin-top:20px;
+}
+
+.page-cima{
+	width:100%;
+	height:100vh;
+	background:linear-gradient(90deg, rgba(163,160,163,0.3561799719887955) 10%, rgba(163,160,163,0.2553396358543417) 90%), url("../img/CimaLibertad/img1.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    margin-bottom: 10px;	
+}
+
+.divider{
+	border: 1px solid black;
+	padding: 0px 20px;
+}
+
+.carousel-inner > .item > img { 
+	width: 100%; 
+	height: 400px;
+}
+
+.landing-page-negocios{
+	width:100%;
+	height:100vh;
+	background:linear-gradient(90deg, rgba(163,160,163,0.3561799719887955) 10%, rgba(163,160,163,0.2553396358543417) 90%), url("../img/Negocios/Negocios.png");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+
+.landing-page--contacto{
+	width:100%;
+	height:65vh;
+	background:url("../img/Contacto.png");
+	background-color: #CEC9CF;
+	background-repeat: no-repeat;
+    background-size: fill;
+    background-attachment: scroll;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+
+.contactR{
+	height: 420px;
+}
+
+.contact-result{
+	font-size: 40px;
+}
+
+.landing-page--acerca{
+	width:100%;
+	height:60vh;
+	background:url("../img/Acerca.png");
+	background-color: #CEC9CF;
+	background-repeat: no-repeat;
+    background-size: fill;
+    background-attachment: scroll;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+::-webkit-scrollbar {
+    display: none;
+}
